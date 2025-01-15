@@ -1,7 +1,9 @@
 function init(){
 var button = document.getElementById("entrybutton);
  
-function
+function displayText(){
+  var text =document.getElementById("entryinput");
+  document.getElementById("textoutput").innerHTML =
 
 
 
